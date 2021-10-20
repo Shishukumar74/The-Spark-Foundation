@@ -8,7 +8,8 @@ sklearn
 # About this project
 In this project we try to predict percentage or score of an student based on number of study hours.<br>
 We use simple linear regression to perform this task. However we use numpy and pandas for data processing<br>
-and matplotlib for data visualization, where as sklearn for implementing linear regression.
+and matplotlib for data visualization, where as sklearn for implementing linear regression. However for model
+evaluation we use  mean squared error and mean absolute error.
 #  Programming Language
 Python
 # Development Environment
