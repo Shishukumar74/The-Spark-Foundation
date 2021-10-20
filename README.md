@@ -17,8 +17,8 @@ Google Collaboratory
 Clone this repository and then login to google collaboratory using your gmail account.<br>
 Upload this project on collab using file menu and click on upload notebook.<br>
 To start session in google colab<br>
-click on connect<br>
-click on connect to hosted runtime and you are conneted now.<br>
-click on runtime<br>
-click on run all
+-->click on connect<br>
+-->click on connect to hosted runtime and you are conneted now.<br>
+-->click on runtime<br>
+-->click on run all
 
