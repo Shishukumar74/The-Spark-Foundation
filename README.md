@@ -1,2 +1,2 @@
 # The-Spark-Foundation
-This repository contains all project that given by spark foundation during internship.
+This repository contain all projects that given by spark foundation during internship.
